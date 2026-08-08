@@ -1,7 +1,7 @@
 # Software Design Description
 ## For Paletaaa (Accessible Palette Generator)
 
-Version 0.2  
+Version 0.3  
 Prepared by: Dónovan Martín  
 Organization: Estudiante de Ingeniería Informática / Portafolio Personal  
 Date: Julio 2026
