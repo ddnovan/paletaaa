@@ -85,7 +85,7 @@ Interfaz responsive de 4 bloques principales:
 <!-- Comportamientos específicos en formato de
  historias o requisitos verificables -->
 
-Por el momento, cada **Verification Method** viene dado por *Test / Inspection / Demostration / Analysis*.
+Por el momento, cada **Verification Method** viene dado por *Test / Inspection / Demonstration / Analysis*.
 
 #### REQ-FUNC-01: Generación Aleatoria de Paleta
 - **Statement:** El sistema debe generar una combinación de colores armónicos (aleatoria o respetando bloqueos) al accionar el botón "Generar", "Regenerar" o presionar la barra espaciadora.
