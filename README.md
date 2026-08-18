@@ -4,7 +4,7 @@ Herramienta web interactiva para la generación de paletas de colores estéticas
 
 ## Filosofía del Proyecto
 
-Con el proyecto **Paletaaa** deseo demuestrar la aplicación práctica de principios de ingeniería de software y desarrollo web avanzado. Además de proporcionar un medio para artistas y auditores de accesibilidad web.
+Con el proyecto **Paletaaa** deseo demostrar la aplicación práctica de principios de ingeniería de software y desarrollo web avanzado. Además de proporcionar un medio para artistas y auditores de accesibilidad web.
 
 Se construye de forma continua y deliberada utilizando exclusivamente **HTML5, CSS3 Nativo y Vanilla JS (ES6 Modules)** para garantizar un rendimiento óptimo, cero dependencias de terceros, control total sobre el DOM y accesibilidad nativa.
 
@@ -19,9 +19,11 @@ Se construye de forma continua y deliberada utilizando exclusivamente **HTML5, C
 
 Toda la ingeniería y planificación del software está documentada en la carpeta `/docs`:
 
+* [Introducción a Paletaaa](./docs/INTRODUCCION.md)
 * [Especificación de Requisitos (SRS.md)](./docs/SRS.md)
 * [Descripción del Diseño de Software (SDD.md)](./docs/SDD.md)
-* [Figma Wireframe Blueprint](https://www.figma.com/design/DVKvaBBZfWEehrrXkXv4PI/Paletaaa?node-id=0-1&t=RoNsob8soCCkVdOw-1)
+* [Prototipo: Figma Wireframe Blueprint](https://www.figma.com/design/DVKvaBBZfWEehrrXkXv4PI/Paletaaa?node-id=0-1&t=RoNsob8soCCkVdOw-1)
+* [Referencias consultadas](./docs/REFERENCIAS.md)
 
 ## Licencia y Propiedad Intelectual
 
