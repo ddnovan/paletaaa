@@ -15,3 +15,5 @@ Listado en orden cronológico de los enlaces consultados más importantes.
 * **Gestión de ramas locales, fusión y resolución de flujos de trabajo:** [Git Branching Documentation](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 * **Diseño de la interfaz de usuario:** [Figma/Paletaaa](https://www.figma.com/design/DVKvaBBZfWEehrrXkXv4PI/Paletaaa?node-id=0-1&t=RoNsob8soCCkVdOw-1)
 * **Característica (feature), Épica e Historia de usuario:** [examples](https://youtu.be/DL_tcSV6Bw4?si=vvjlRqlrxJFB2JbE)
+* **Licencia de un repositorio:** [docs.github.com/repositories](https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+* **Arquitectura de patrón Pub/Sub:** [Pub/Sub-vs-Event-driven-systems](https://medium.com/@sukantasaha/publisher-subscriber-vs-event-driven-systems-ab0e14ec7538)
